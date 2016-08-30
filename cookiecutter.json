@@ -1,0 +1,7 @@
+{
+    "import_name": "vintage",
+    "project_name": "Vintage",
+    "gh_username": "vmalloc",
+    "gh_reponame": "{{cookiecutter.import_name}}"
+
+}
