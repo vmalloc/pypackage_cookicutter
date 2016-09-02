@@ -9,12 +9,13 @@ _INSTALL_REQUIERS = []
 
 setup(name="{{cookiecutter.import_name}}",
       classifiers = [
-          "Programming Language :: Python :: 2.6",
           "Programming Language :: Python :: 2.7",
           "Programming Language :: Python :: 3.3",
+          "Programming Language :: Python :: 3.4",
+          "Programming Language :: Python :: 3.5",
           ],
       description="Python library for deprecating code",
-      license="BSD3",
+      license="{{cookiecutter.license}}",
       author="Slash Developers",
       author_email="{{cookiecutter.developer_email}}",
       version=__version__, # pylint: disable=E0602

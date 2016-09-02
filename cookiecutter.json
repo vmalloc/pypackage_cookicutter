@@ -1,7 +1,10 @@
 {
     "import_name": "vintage",
     "project_name": "Vintage",
+    "developer_email": "vmalloc@gmail.com",
+    "developer_name": "Rotem Yaari",
     "gh_username": "vmalloc",
-    "gh_reponame": "{{cookiecutter.import_name}}"
+    "gh_reponame": "{{cookiecutter.import_name}}",
+    "license": "BSD3"
 
 }
